@@ -1,0 +1,11 @@
+{
+  "name": "utilicity",
+  "version": "1.0.0",
+  "description": "Source code for a website platform providing helpful and handy functions for everyday tasks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anderson Yoon",
+  "license": "MIT"
+}
